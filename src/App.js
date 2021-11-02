@@ -20,9 +20,8 @@ function App() {
    }, []);
 
   return (
-    <div className="App font-loader h-screen w-screen 
+    <div className="App font-loader
     bg-gradient-to-r from-gray-700 via-gray-900 to-black
-    text-gray-100
     ">
       <Title/>
       <Intro/>

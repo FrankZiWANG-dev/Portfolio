@@ -4,7 +4,7 @@ import "../css/output.css";
 const Education = () => {
     return (
         <div class="text-center w-screen">
-           <p class="italic">Education</p>
+           <p class="text-gray-100 text-xl leading-normal font-semibold">Education</p>
         </div>
     )
 }

@@ -4,7 +4,7 @@ import "../css/output.css";
 const Techs = () => {
     return (
         <div class="text-center w-screen">
-           <p class="italic">Techs</p>
+           <p class="text-gray-100 text-xl leading-normal font-semibold">Techs</p>
         </div>
     )
 }
