@@ -5,7 +5,7 @@ This is my current portfolio, as I'm nearing the end of my web development train
 ## Link
 https://frankziwang-dev.github.io/Portfolio/
 ## Project
-This portfolio is a single page website presenting my profile and previous projects.
+This portfolio is a single page website presenting my profile and previous projects (currently unfinished).
 ## Technologies
 - Structure: React
 - Styling: TailwindCSS
