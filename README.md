@@ -8,3 +8,5 @@ Other technologies and credits include:
 - Background color theme is "Gotham" from https://hypercolor.dev/
 - First image is one of Hristo Sahatchiev's photos at 'https://www.pexels.com/fr-fr/photo/trench-coat-marron-sur-support-en-bois-821357/
 - Slick Carousel for React
+- Tailwind
+- Devicon
