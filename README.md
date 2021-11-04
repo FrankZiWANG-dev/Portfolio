@@ -9,8 +9,8 @@ This portfolio is a single page website presenting my profile and previous proje
 ## Technologies
 - Structure: React
 - Styling: TailwindCSS
-- Carousel: Slick Carousel for React
-- Icons: Devicon
+- Carousel: Slick Carousel for React (https://www.npmjs.com/package/react-slick, http://kenwheeler.github.io/slick/)
+- Icons: Devicon (https://devicon.dev/)
 ## Credits  
 - Background color theme: "Gotham" template at https://hypercolor.dev/
 - Parallax image: creation from TheDigitalArtist at https://pixabay.com/illustrations/cyber-network-technology-futuristic-3400789/
