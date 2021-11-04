@@ -11,7 +11,12 @@ const Contact = () => {
             rounded-2xl shadow-sm
             bg-white bg-opacity-90
             backdrop-filter backdrop-blur-sm drop-shadow">
-                <p class="font-semibold text-xl lg:text-3xl pb-3 lg:pb-5">Let's have a chat!</p>
+                <p class="font-semibold text-xl lg:text-3xl pb-3 lg:pb-5">
+                    Let's have a chat!
+                </p>
+                <p class="text-xl lg:text-2xl pb-3 lg:pb-5">
+                   Phone me at <span class="font-semibold"> 0498 27 44 10 </span>, reach out on LinkedIn or mail and check out my Github:
+                </p>
                 <div class="flex gap-2 lg:gap-10 justify-center">
                     <a href="https://www.linkedin.com/in/frank-zi-wang/" target="_blank">
                         <img class="w-12 h-12 lg:w-24 lg:h-24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
