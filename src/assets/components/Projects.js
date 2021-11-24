@@ -34,25 +34,41 @@ const Projects = () => {
                     </a>
                 </div>
                 <div class="rounded-3xl flex items-center justify-center">
-                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/Guinea-pig-presidentials" target="_blank">
+                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/blog" target="_blank">
                         <figure class="relative">
-                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/Guinea-pig-presidentials-screenshot.png?raw=true'/>
+                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/blog-screenshot.png?raw=true'/>
                             <figcaption class=" mt-5 mr-5 ml-5 p-3 text-sm
                                         md:absolute md:-mt-32 md:right-0 md:mr-12 md:p-5
                                         rounded-xl shadow-sm
                                         bg-white bg-opacity-90
                                         md:bg-opacity-40 md:backdrop-filter md:backdrop-blur-sm md:drop-shadow">
-                                <p class="font-semibold md:text-lg">Gaming-themed Cookie Clicker</p>
-                                <p> Click the icon to get points, spend to get bonuses. Repeat.</p>
-                                <p> Frontend in HTML / Sass / Javascript. No backend. </p>
+                                <p class="font-semibold md:text-lg">Psychology blog</p>
+                                <p> A prototype platform for my psychologist girlfriend to share her knowledge.</p>
+                                <p> Frontend in HTML / Tailwind. Backend in Python (Flask)</p>
                             </figcaption>
                         </figure>
                     </a>
                 </div>
                 <div class="rounded-3xl flex items-center justify-center">
-                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/Guinea-pig-presidentials" target="_blank">
+                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/Hangman" target="_blank">
                         <figure class="relative">
-                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/Guinea-pig-presidentials-screenshot.png?raw=true'/>
+                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/hangman-screenshot.png?raw=true'/>
+                            <figcaption class=" mt-5 mr-5 ml-5 p-3 text-sm
+                                        md:absolute md:-mt-32 md:right-0 md:mr-12 md:p-5
+                                        rounded-xl shadow-sm
+                                        bg-white bg-opacity-90
+                                        md:bg-opacity-40 md:backdrop-filter md:backdrop-blur-sm md:drop-shadow">
+                                <p class="font-semibold md:text-lg">LoL themed Hangman game</p>
+                                <p> A simple javascript game done early in my training, based on the popular game LeagueOfLegends.</p>
+                                <p> Frontend in HTML / CSS / Javascript. No backend. </p>
+                            </figcaption>
+                        </figure>
+                    </a>
+                </div>
+                <div class="rounded-3xl flex items-center justify-center">
+                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/PetDB" target="_blank">
+                        <figure class="relative">
+                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/under-construction.png?raw=true'/>
                             <figcaption class=" mt-5 mr-5 ml-5 p-3 text-sm
                                         md:absolute md:-mt-32 md:right-0 md:mr-12 md:p-5
                                         rounded-xl shadow-sm
@@ -65,22 +81,7 @@ const Projects = () => {
                         </figure>
                     </a>
                 </div>
-                <div class="rounded-3xl flex items-center justify-center">
-                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/Guinea-pig-presidentials" target="_blank">
-                        <figure class="relative">
-                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/Guinea-pig-presidentials-screenshot.png?raw=true'/>
-                            <figcaption class=" mt-5 mr-5 ml-5 p-3 text-sm
-                                        md:absolute md:-mt-32 md:right-0 md:mr-12 md:p-5
-                                        rounded-xl shadow-sm
-                                        bg-white bg-opacity-90
-                                        md:bg-opacity-40 md:backdrop-filter md:backdrop-blur-sm md:drop-shadow">
-                                <p class="font-semibold md:text-lg">Client project for Becode</p>
-                                <p> Becode needed a platform to centralize client projects done by their students.</p>
-                                <p> Technologies to be determined yet. </p>
-                            </figcaption>
-                        </figure>
-                    </a>
-                </div>
+                
             </Slider>
         </div>
     )

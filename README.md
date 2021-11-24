@@ -14,3 +14,12 @@ This portfolio is a single page website presenting my profile and previous proje
 ## Credits  
 - Background color theme: "Gotham" template at https://hypercolor.dev/
 - Parallax image: creation from TheDigitalArtist at https://pixabay.com/illustrations/cyber-network-technology-futuristic-3400789/
+
+## Roadmap
+Visual adjustments might include:
+- Augmenting parallax height
+- Putting titles on the left
+- Adjusting div width to match (?)
+- Bigger padding
+- Adjusting carousel border radius
+- Diminishing contact icons size
