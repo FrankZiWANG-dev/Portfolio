@@ -50,17 +50,17 @@ const Projects = () => {
                     </a>
                 </div>
                 <div class="rounded-3xl flex items-center justify-center">
-                    <a class='rounded' href="https://github.com/FrankZiWANG-dev/Hangman" target="_blank">
+                    <a class='rounded' href="https://frankziwang-dev.github.io/AfterWork/" target="_blank">
                         <figure class="relative">
-                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/hangman-screenshot.png?raw=true'/>
+                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8" src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/afterwork-screenshot.png?raw=true'/>
                             <figcaption class=" mt-5 mr-5 ml-5 p-3 text-sm
                                         md:absolute md:-mt-32 md:right-0 md:mr-12 md:p-5
                                         rounded-xl shadow-sm
                                         bg-white bg-opacity-90
                                         md:bg-opacity-40 md:backdrop-filter md:backdrop-blur-sm md:drop-shadow">
-                                <p class="font-semibold md:text-lg">LoL themed Hangman game</p>
-                                <p> A simple javascript game done early in my training, based on the popular game LeagueOfLegends.</p>
-                                <p> Frontend in HTML / CSS / Javascript. No backend. </p>
+                                <p class="font-semibold md:text-lg">AfterWork</p>
+                                <p> A single-page VueJS app that generates cocktail recipes.</p>
+                                <p> Frontend VueJS and CSS. No backend. </p>
                             </figcaption>
                         </figure>
                     </a>
