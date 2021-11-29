@@ -53,7 +53,7 @@ const Projects = () => {
                 <div class="rounded-3xl flex items-center justify-center">
                     <a class='rounded' href="https://frankziwang-dev.github.io/AfterWork/" target="_blank">
                         <figure class="relative">
-                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8 md:w-8/12 md:m-auto lg:w-6/12 " alt='website-screenshot' src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/afterwork-screenshot.png?raw=true'/>
+                            <img class="pl-3 pr-3 pt-5 md:pl-8 md:pr-8 md:w-full md:m-auto lg:w-8/12 " alt='website-screenshot' src='https://github.com/FrankZiWANG-dev/Portfolio/blob/main/src/assets/images/afterwork-screenshot.png?raw=true'/>
                             <figcaption class=" mt-5 mr-5 ml-5 p-3 text-sm
                                         md:absolute md:-mt-32 md:right-0 md:mr-12 md:p-5 md:text-xl
                                         lg:text-2xl lg:right-8 lg:-mt-44
